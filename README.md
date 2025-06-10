@@ -22,6 +22,7 @@ Ranked all pizzas by sales and frequency across peak hours to identify candidate
 
 # Data Model Structure
 Table	Description
+
 orders	Order ID, date, and time of each order
 order_details	Pizza quantity and associated order ID
 pizzas	Pizza ID, size, and price
@@ -70,7 +71,7 @@ This dataset was provided by Maven Analytics as part of their community challeng
 # Business Recommendations
 Schedule more staff during peak lunch (12–1 PM) and dinner (6–7 PM) windows.
 
-Promote top-performing pizzas like Margherita and Pepperoni during high-traffic periods.
+Promote top-performing pizzas during high-traffic periods.
 
 Retire or rebrand low-selling pizzas to simplify the menu and reduce operational overhead.
 
