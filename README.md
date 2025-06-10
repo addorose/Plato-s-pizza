@@ -1,5 +1,7 @@
 # Plato-s-pizza
-This report is the result of that request — a comprehensive Power BI dashboard and analysis to help Plato’s Pizza improve performance, optimize staff scheduling, and make smarter menu decisions.
+This report This project analyzes a Plato's pizza's sales data using Power BI. It answers key business questions such as customer traffic patterns, bestselling pizzas, peak ordering hours, and sales performance.
+# About the Data Set
+A year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
 
 # Key Business Questions Answered
 How many customers do we have each day? Are there any peak hours?
