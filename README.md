@@ -46,7 +46,7 @@ Top-Selling Pizza: Uses TOPN and RANKX to display highest-selling item dynamical
 
 Revenue : SUMX(order_details, quantity * RELATED(price))
 
-#Dashboard Highlights
+# Dashboard Highlights
 KPI Cards for total revenue, top-selling pizza, and average orders
 
 Bar Charts to show customer volume by hour and pizza popularity
