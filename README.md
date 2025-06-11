@@ -23,10 +23,10 @@ Ranked all pizzas by sales and frequency across peak hours to identify candidate
 # Data Model Structure
 Table	Description
 
-orders	Order ID, date, and time of each order
-order_details	Pizza quantity and associated order ID
-pizzas	Pizza ID, size, and price
-pizza_types	Pizza name and category
+orders:	Order ID, date, and time of each order
+order_details:	Pizza quantity and associated order ID
+pizzas:	Pizza ID, size, and price
+pizza_types:	Pizza name and  category
 
 # Relationships:
 
@@ -52,9 +52,7 @@ KPI Cards for total revenue, top-selling pizza, and average orders
 
 Bar Charts to show customer volume by hour and pizza popularity
 
-Matrix Visuals to display hourly pizza sales by name
-
-Ranking Tables to compare all pizzas side-by-side
+Table Visuals to display pizza sales by name
 
 # Tools Used
 Power BI Desktop
