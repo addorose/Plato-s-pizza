@@ -1,3 +1,4 @@
+![Dashboard](https://github.com/user-attachments/assets/54878b10-d717-4fd5-b587-a4b7118b531e)
 # Plato-s-pizza
 This project analyzes a Plato's pizza's sales data using Power BI. It answers key business questions such as customer traffic patterns, bestselling pizzas, peak ordering hours, and sales performance.
 # About the Data Set
